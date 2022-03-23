@@ -16,5 +16,5 @@ h1{
     border-radius: 25px;
     margin: 0 auto;
 }
-#principal:focus{background-color: yellow;} /*focus input fields*/
+/*#principal:focus{background-color: yellow;} focus input fields*/
 

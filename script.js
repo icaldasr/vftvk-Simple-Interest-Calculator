@@ -15,8 +15,6 @@ function compute()
     document.getElementById("principal").focus();
     }
 }
-var principal = document.getElementById("principal").value;
-var result = document.getElementById("result");
 
 function updateRate()
 {
